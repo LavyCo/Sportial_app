@@ -1,0 +1,266 @@
+[
+    {
+        "merged": "com.example.sportial.app-debug-53:/drawable_tennis_background.png.flat",
+        "source": "com.example.sportial.app-main-55:/drawable/tennis_background.png"
+    },
+    {
+        "merged": "com.example.sportial.app-debug-53:/drawable_ic_dashboard_black_24dp.xml.flat",
+        "source": "com.example.sportial.app-main-55:/drawable/ic_dashboard_black_24dp.xml"
+    },
+    {
+        "merged": "com.example.sportial.app-debug-53:/drawable_profile_button_style.xml.flat",
+        "source": "com.example.sportial.app-main-55:/drawable/profile_button_style.xml"
+    },
+    {
+        "merged": "com.example.sportial.app-debug-53:/mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "com.example.sportial.app-main-55:/mipmap-xxxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.sportial.app-debug-53:/drawable_ic_esport.xml.flat",
+        "source": "com.example.sportial.app-main-55:/drawable/ic_esport.xml"
+    },
+    {
+        "merged": "com.example.sportial.app-debug-53:/drawable_profile_button_style2.xml.flat",
+        "source": "com.example.sportial.app-main-55:/drawable/profile_button_style2.xml"
+    },
+    {
+        "merged": "com.example.sportial.app-debug-53:/mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.sportial.app-main-55:/mipmap-xxxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.sportial.app-debug-53:/xml_backup_rules.xml.flat",
+        "source": "com.example.sportial.app-main-55:/xml/backup_rules.xml"
+    },
+    {
+        "merged": "com.example.sportial.app-debug-53:/drawable_ic_tennis.xml.flat",
+        "source": "com.example.sportial.app-main-55:/drawable/ic_tennis.xml"
+    },
+    {
+        "merged": "com.example.sportial.app-debug-53:/drawable_sport_card_view_background.xml.flat",
+        "source": "com.example.sportial.app-main-55:/drawable/sport_card_view_background.xml"
+    },
+    {
+        "merged": "com.example.sportial.app-debug-53:/mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.sportial.app-main-55:/mipmap-xhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.sportial.app-debug-53:/font_michroma.ttf.flat",
+        "source": "com.example.sportial.app-main-55:/font/michroma.ttf"
+    },
+    {
+        "merged": "com.example.sportial.app-debug-53:/drawable_golf_background.png.flat",
+        "source": "com.example.sportial.app-main-55:/drawable/golf_background.png"
+    },
+    {
+        "merged": "com.example.sportial.app-debug-53:/layout_fragment_profile_posts.xml.flat",
+        "source": "com.example.sportial.app-main-55:/layout/fragment_profile_posts.xml"
+    },
+    {
+        "merged": "com.example.sportial.app-debug-53:/layout_activity_profile_screen.xml.flat",
+        "source": "com.example.sportial.app-main-55:/layout/activity_profile_screen.xml"
+    },
+    {
+        "merged": "com.example.sportial.app-debug-53:/drawable_button_with_stroke.xml.flat",
+        "source": "com.example.sportial.app-main-55:/drawable/button_with_stroke.xml"
+    },
+    {
+        "merged": "com.example.sportial.app-debug-53:/drawable_cycling_background.png.flat",
+        "source": "com.example.sportial.app-main-55:/drawable/cycling_background.png"
+    },
+    {
+        "merged": "com.example.sportial.app-debug-53:/drawable_male_gender_icon.xml.flat",
+        "source": "com.example.sportial.app-main-55:/drawable/male_gender_icon.xml"
+    },
+    {
+        "merged": "com.example.sportial.app-debug-53:/drawable_connect_icon.xml.flat",
+        "source": "com.example.sportial.app-main-55:/drawable/connect_icon.xml"
+    },
+    {
+        "merged": "com.example.sportial.app-debug-53:/drawable_basketball_background.png.flat",
+        "source": "com.example.sportial.app-main-55:/drawable/basketball_background.png"
+    },
+    {
+        "merged": "com.example.sportial.app-debug-53:/layout_activity_image_upload.xml.flat",
+        "source": "com.example.sportial.app-main-55:/layout/activity_image_upload.xml"
+    },
+    {
+        "merged": "com.example.sportial.app-debug-53:/layout_post_card_view.xml.flat",
+        "source": "com.example.sportial.app-main-55:/layout/post_card_view.xml"
+    },
+    {
+        "merged": "com.example.sportial.app-debug-53:/layout_sport_card_view.xml.flat",
+        "source": "com.example.sportial.app-main-55:/layout/sport_card_view.xml"
+    },
+    {
+        "merged": "com.example.sportial.app-debug-53:/drawable_ic_golf.xml.flat",
+        "source": "com.example.sportial.app-main-55:/drawable/ic_golf.xml"
+    },
+    {
+        "merged": "com.example.sportial.app-debug-53:/drawable_share_icon.xml.flat",
+        "source": "com.example.sportial.app-main-55:/drawable/share_icon.xml"
+    },
+    {
+        "merged": "com.example.sportial.app-debug-53:/drawable_ic_home_black_24dp.xml.flat",
+        "source": "com.example.sportial.app-main-55:/drawable/ic_home_black_24dp.xml"
+    },
+    {
+        "merged": "com.example.sportial.app-debug-53:/drawable_ic_notifications_black_24dp.xml.flat",
+        "source": "com.example.sportial.app-main-55:/drawable/ic_notifications_black_24dp.xml"
+    },
+    {
+        "merged": "com.example.sportial.app-debug-53:/drawable_ic_app_logo.png.flat",
+        "source": "com.example.sportial.app-main-55:/drawable/ic_app_logo.png"
+    },
+    {
+        "merged": "com.example.sportial.app-debug-53:/mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "com.example.sportial.app-main-55:/mipmap-hdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.sportial.app-debug-53:/drawable_verified_symbol_icon.xml.flat",
+        "source": "com.example.sportial.app-main-55:/drawable/verified_symbol_icon.xml"
+    },
+    {
+        "merged": "com.example.sportial.app-debug-53:/drawable_running_background.png.flat",
+        "source": "com.example.sportial.app-main-55:/drawable/running_background.png"
+    },
+    {
+        "merged": "com.example.sportial.app-debug-53:/drawable_comment_icon.xml.flat",
+        "source": "com.example.sportial.app-main-55:/drawable/comment_icon.xml"
+    },
+    {
+        "merged": "com.example.sportial.app-debug-53:/mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.sportial.app-main-55:/mipmap-hdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.sportial.app-debug-53:/layout_activity_profile_creation.xml.flat",
+        "source": "com.example.sportial.app-main-55:/layout/activity_profile_creation.xml"
+    },
+    {
+        "merged": "com.example.sportial.app-debug-53:/mipmap-anydpi_ic_launcher_round.xml.flat",
+        "source": "com.example.sportial.app-main-55:/mipmap-anydpi/ic_launcher_round.xml"
+    },
+    {
+        "merged": "com.example.sportial.app-debug-53:/drawable_swim_background.png.flat",
+        "source": "com.example.sportial.app-main-55:/drawable/swim_background.png"
+    },
+    {
+        "merged": "com.example.sportial.app-debug-53:/drawable_ic_swimming.xml.flat",
+        "source": "com.example.sportial.app-main-55:/drawable/ic_swimming.xml"
+    },
+    {
+        "merged": "com.example.sportial.app-debug-53:/drawable_ic_boxing.xml.flat",
+        "source": "com.example.sportial.app-main-55:/drawable/ic_boxing.xml"
+    },
+    {
+        "merged": "com.example.sportial.app-debug-53:/drawable_ic_launcher_foreground.xml.flat",
+        "source": "com.example.sportial.app-main-55:/drawable/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "com.example.sportial.app-debug-53:/layout_activity_main.xml.flat",
+        "source": "com.example.sportial.app-main-55:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.example.sportial.app-debug-53:/xml_data_extraction_rules.xml.flat",
+        "source": "com.example.sportial.app-main-55:/xml/data_extraction_rules.xml"
+    },
+    {
+        "merged": "com.example.sportial.app-debug-53:/drawable_quote_icon.xml.flat",
+        "source": "com.example.sportial.app-main-55:/drawable/quote_icon.xml"
+    },
+    {
+        "merged": "com.example.sportial.app-debug-53:/drawable_football_background.png.flat",
+        "source": "com.example.sportial.app-main-55:/drawable/football_background.png"
+    },
+    {
+        "merged": "com.example.sportial.app-debug-53:/mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.sportial.app-main-55:/mipmap-xxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.sportial.app-debug-53:/drawable_message_icon.xml.flat",
+        "source": "com.example.sportial.app-main-55:/drawable/message_icon.xml"
+    },
+    {
+        "merged": "com.example.sportial.app-debug-53:/drawable_ic_launcher_background.xml.flat",
+        "source": "com.example.sportial.app-main-55:/drawable/ic_launcher_background.xml"
+    },
+    {
+        "merged": "com.example.sportial.app-debug-53:/drawable_ic_basketball.xml.flat",
+        "source": "com.example.sportial.app-main-55:/drawable/ic_basketball.xml"
+    },
+    {
+        "merged": "com.example.sportial.app-debug-53:/drawable_ic_cycling.xml.flat",
+        "source": "com.example.sportial.app-main-55:/drawable/ic_cycling.xml"
+    },
+    {
+        "merged": "com.example.sportial.app-debug-53:/mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "com.example.sportial.app-main-55:/mipmap-xhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.sportial.app-debug-53:/drawable_button_with_stroke2.xml.flat",
+        "source": "com.example.sportial.app-main-55:/drawable/button_with_stroke2.xml"
+    },
+    {
+        "merged": "com.example.sportial.app-debug-53:/mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "com.example.sportial.app-main-55:/mipmap-mdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.sportial.app-debug-53:/layout_layout.xml.flat",
+        "source": "com.example.sportial.app-main-55:/layout/layout.xml"
+    },
+    {
+        "merged": "com.example.sportial.app-debug-53:/font_bungee.xml.flat",
+        "source": "com.example.sportial.app-main-55:/font/bungee.xml"
+    },
+    {
+        "merged": "com.example.sportial.app-debug-53:/drawable_ic_football.xml.flat",
+        "source": "com.example.sportial.app-main-55:/drawable/ic_football.xml"
+    },
+    {
+        "merged": "com.example.sportial.app-debug-53:/drawable_profile_background.png.flat",
+        "source": "com.example.sportial.app-main-55:/drawable/profile_background.png"
+    },
+    {
+        "merged": "com.example.sportial.app-debug-53:/drawable_ic_run.xml.flat",
+        "source": "com.example.sportial.app-main-55:/drawable/ic_run.xml"
+    },
+    {
+        "merged": "com.example.sportial.app-debug-53:/drawable_esport_background.png.flat",
+        "source": "com.example.sportial.app-main-55:/drawable/esport_background.png"
+    },
+    {
+        "merged": "com.example.sportial.app-debug-53:/drawable_ic_volleyball.xml.flat",
+        "source": "com.example.sportial.app-main-55:/drawable/ic_volleyball.xml"
+    },
+    {
+        "merged": "com.example.sportial.app-debug-53:/layout_activity_sport_choose.xml.flat",
+        "source": "com.example.sportial.app-main-55:/layout/activity_sport_choose.xml"
+    },
+    {
+        "merged": "com.example.sportial.app-debug-53:/mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "com.example.sportial.app-main-55:/mipmap-xxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.sportial.app-debug-53:/layout_activity_signup.xml.flat",
+        "source": "com.example.sportial.app-main-55:/layout/activity_signup.xml"
+    },
+    {
+        "merged": "com.example.sportial.app-debug-53:/drawable_endorse_icon.xml.flat",
+        "source": "com.example.sportial.app-main-55:/drawable/endorse_icon.xml"
+    },
+    {
+        "merged": "com.example.sportial.app-debug-53:/drawable_boxing_background.png.flat",
+        "source": "com.example.sportial.app-main-55:/drawable/boxing_background.png"
+    },
+    {
+        "merged": "com.example.sportial.app-debug-53:/mipmap-anydpi_ic_launcher.xml.flat",
+        "source": "com.example.sportial.app-main-55:/mipmap-anydpi/ic_launcher.xml"
+    },
+    {
+        "merged": "com.example.sportial.app-debug-53:/drawable_volleyball_background.png.flat",
+        "source": "com.example.sportial.app-main-55:/drawable/volleyball_background.png"
+    },
+    {
+        "merged": "com.example.sportial.app-debug-53:/mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.sportial.app-main-55:/mipmap-mdpi/ic_launcher_round.webp"
+    }
+]

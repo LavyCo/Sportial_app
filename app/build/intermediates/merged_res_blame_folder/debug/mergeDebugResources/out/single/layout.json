@@ -1,0 +1,42 @@
+[
+    {
+        "merged": "com.example.sportial.app-mergeDebugResources-52:/layout/sport_card_view.xml",
+        "source": "com.example.sportial.app-main-55:/layout/sport_card_view.xml"
+    },
+    {
+        "merged": "com.example.sportial.app-mergeDebugResources-52:/layout/layout.xml",
+        "source": "com.example.sportial.app-main-55:/layout/layout.xml"
+    },
+    {
+        "merged": "com.example.sportial.app-mergeDebugResources-52:/layout/activity_signup.xml",
+        "source": "com.example.sportial.app-main-55:/layout/activity_signup.xml"
+    },
+    {
+        "merged": "com.example.sportial.app-mergeDebugResources-52:/layout/activity_main.xml",
+        "source": "com.example.sportial.app-main-55:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.example.sportial.app-mergeDebugResources-52:/layout/activity_profile_screen.xml",
+        "source": "com.example.sportial.app-main-55:/layout/activity_profile_screen.xml"
+    },
+    {
+        "merged": "com.example.sportial.app-mergeDebugResources-52:/layout/post_card_view.xml",
+        "source": "com.example.sportial.app-main-55:/layout/post_card_view.xml"
+    },
+    {
+        "merged": "com.example.sportial.app-mergeDebugResources-52:/layout/activity_sport_choose.xml",
+        "source": "com.example.sportial.app-main-55:/layout/activity_sport_choose.xml"
+    },
+    {
+        "merged": "com.example.sportial.app-mergeDebugResources-52:/layout/activity_profile_creation.xml",
+        "source": "com.example.sportial.app-main-55:/layout/activity_profile_creation.xml"
+    },
+    {
+        "merged": "com.example.sportial.app-mergeDebugResources-52:/layout/fragment_profile_posts.xml",
+        "source": "com.example.sportial.app-main-55:/layout/fragment_profile_posts.xml"
+    },
+    {
+        "merged": "com.example.sportial.app-mergeDebugResources-52:/layout/activity_image_upload.xml",
+        "source": "com.example.sportial.app-main-55:/layout/activity_image_upload.xml"
+    }
+]

@@ -1,0 +1,195 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/LL_profileCreation"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:theme="@style/Theme.Sportial"
+    android:orientation="vertical"
+    android:padding="16dp">
+
+    <TextView
+        android:id="@+id/textView2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:fontFamily="monospace"
+        android:text="Create your profile!"
+        android:textSize="24sp"
+        android:textStyle="bold" />
+
+
+    <TextView
+        android:id="@+id/textView3"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="10dp"
+        android:fontFamily="monospace"
+        android:layout_marginBottom="5dp"
+        android:text="Please enter your full name" />
+
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal">
+
+        <EditText
+            android:fontFamily="monospace"
+            android:id="@+id/firstNameEditText"
+            android:layout_width="182dp"
+            android:layout_height="wrap_content"
+            android:layout_margin="20dp"
+            android:layout_weight="1"
+            android:ems="10"
+            android:hint="First name"
+            android:inputType="text" />
+
+        <EditText
+            android:fontFamily="monospace"
+            android:id="@+id/lastNameEditText"
+            android:layout_width="217dp"
+            android:layout_height="wrap_content"
+            android:layout_margin="20dp"
+            android:layout_weight="1"
+            android:ems="10"
+            android:inputType="text"
+            android:hint="Last name" />
+
+    </LinearLayout>
+
+    <TextView
+        android:fontFamily="monospace"
+        android:id="@+id/textView"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="10dp"
+        android:text="Please pick your birth date" />
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal">
+
+        <Spinner
+            android:id="@+id/db_day"
+
+            android:layout_width="0dp"
+            android:layout_height="60dp"
+            android:layout_marginRight="5dp"
+            android:layout_weight="1"
+            android:background="@drawable/button_with_stroke2"
+
+
+            android:backgroundTintMode="src_atop"
+            android:elevation="4dp"
+            android:entries="@array/dropbox_dayOptions"
+            android:fontFamily="monospace"
+            android:strokeWidth="2"
+            tools:ignore="HardcodedText" />
+
+        <Spinner
+            android:id="@+id/db_month"
+
+            android:layout_width="0dp"
+            android:layout_height="60dp"
+            android:layout_marginRight="5dp"
+            android:layout_weight="1"
+            android:background="@drawable/button_with_stroke2"
+
+            android:backgroundTintMode="src_atop"
+            android:elevation="4dp"
+
+            android:entries="@array/dropbox_monthOptions"
+            android:fontFamily="monospace"
+            android:strokeWidth="2"
+            tools:ignore="HardcodedText" />
+
+        <Spinner
+            android:id="@+id/db_year"
+
+            android:layout_width="0dp"
+            android:layout_height="60dp"
+            android:layout_weight="1"
+            android:background="@drawable/button_with_stroke2"
+            android:backgroundTintMode="src_atop"
+
+            android:elevation="4dp"
+            android:entries="@array/dropbox_yearOptions"
+            android:fontFamily="monospace"
+            android:strokeWidth="2"
+            tools:ignore="HardcodedText" />
+
+    </LinearLayout>
+
+
+    <Spinner
+        android:id="@+id/db_gender"
+        android:fontFamily="monospace"
+
+        android:layout_width="match_parent"
+        android:layout_height="60dp"
+        android:layout_margin="20dp"
+        android:background="@drawable/button_with_stroke"
+        android:elevation="4dp"
+        android:entries="@array/dropbox_genderOptions"
+        android:strokeWidth="2"
+        tools:ignore="HardcodedText" />
+
+    <Spinner
+        android:id="@+id/db_sport"
+        android:layout_width="match_parent"
+        android:layout_height="60dp"
+        android:fontFamily="monospace"
+
+        android:layout_margin="20dp"
+        android:background="@drawable/button_with_stroke"
+        android:entries="@array/dropbox_sportOptions" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:fontFamily="monospace"
+        android:layout_marginBottom="10dp"
+
+        android:text="Enter your location"
+        android:textAllCaps="false"
+        android:textSize="20sp" />
+
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:orientation="vertical">
+
+        <AutoCompleteTextView
+            android:id="@+id/ac_country"
+            android:layout_width="match_parent"
+            android:fontFamily="monospace"
+
+            android:layout_height="wrap_content"
+            android:hint="Enter a Country" />
+
+        <AutoCompleteTextView
+            android:id="@+id/ac_city"
+            android:fontFamily="monospace"
+
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:hint="Enter a City" />
+
+    </LinearLayout>
+
+
+    <androidx.appcompat.widget.AppCompatButton
+        android:id="@+id/create_profile_button"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+
+        android:background="@drawable/button_with_stroke2"
+        android:text="Continue" />
+
+
+
+
+</LinearLayout>

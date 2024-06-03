@@ -1,0 +1,264 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet aapt-namespace="http://schemas.android.com/apk/res-auto" config="main$Generated" generated="true" ignore_pattern="!.svn:!.git:!.ds_store:!*.scc:.*:&lt;dir>_*:!CVS:!thumbs.db:!picasa.ini:!*~"><source path="C:\Users\Asher\AndroidStudioProjects\Sportial\app\src\main\res"/></dataSet><dataSet aapt-namespace="http://schemas.android.com/apk/res-auto" config="main" generated-set="main$Generated" ignore_pattern="!.svn:!.git:!.ds_store:!*.scc:.*:&lt;dir>_*:!CVS:!thumbs.db:!picasa.ini:!*~"><source path="C:\Users\Asher\AndroidStudioProjects\Sportial\app\src\main\res"><file name="basketball_background" path="C:\Users\Asher\AndroidStudioProjects\Sportial\app\src\main\res\drawable\basketball_background.png" qualifiers="" type="drawable"/><file name="boxing_background" path="C:\Users\Asher\AndroidStudioProjects\Sportial\app\src\main\res\drawable\boxing_background.png" qualifiers="" type="drawable"/><file name="button_with_stroke" path="C:\Users\Asher\AndroidStudioProjects\Sportial\app\src\main\res\drawable\button_with_stroke.xml" qualifiers="" type="drawable"/><file name="button_with_stroke2" path="C:\Users\Asher\AndroidStudioProjects\Sportial\app\src\main\res\drawable\button_with_stroke2.xml" qualifiers="" type="drawable"/><file name="comment_icon" path="C:\Users\Asher\AndroidStudioProjects\Sportial\app\src\main\res\drawable\comment_icon.xml" qualifiers="" type="drawable"/><file name="connect_icon" path="C:\Users\Asher\AndroidStudioProjects\Sportial\app\src\main\res\drawable\connect_icon.xml" qualifiers="" type="drawable"/><file name="cycling_background" path="C:\Users\Asher\AndroidStudioProjects\Sportial\app\src\main\res\drawable\cycling_background.png" qualifiers="" type="drawable"/><file name="endorse_icon" path="C:\Users\Asher\AndroidStudioProjects\Sportial\app\src\main\res\drawable\endorse_icon.xml" qualifiers="" type="drawable"/><file name="esport_background" path="C:\Users\Asher\AndroidStudioProjects\Sportial\app\src\main\res\drawable\esport_background.png" qualifiers="" type="drawable"/><file name="football_background" path="C:\Users\Asher\AndroidStudioProjects\Sportial\app\src\main\res\drawable\football_background.png" qualifiers="" type="drawable"/><file name="golf_background" path="C:\Users\Asher\AndroidStudioProjects\Sportial\app\src\main\res\drawable\golf_background.png" qualifiers="" type="drawable"/><file name="ic_app_logo" path="C:\Users\Asher\AndroidStudioProjects\Sportial\app\src\main\res\drawable\ic_app_logo.png" qualifiers="" type="drawable"/><file name="ic_basketball" path="C:\Users\Asher\AndroidStudioProjects\Sportial\app\src\main\res\drawable\ic_basketball.xml" qualifiers="" type="drawable"/><file name="ic_boxing" path="C:\Users\Asher\AndroidStudioProjects\Sportial\app\src\main\res\drawable\ic_boxing.xml" qualifiers="" type="drawable"/><file name="ic_cycling" path="C:\Users\Asher\AndroidStudioProjects\Sportial\app\src\main\res\drawable\ic_cycling.xml" qualifiers="" type="drawable"/><file name="ic_dashboard_black_24dp" path="C:\Users\Asher\AndroidStudioProjects\Sportial\app\src\main\res\drawable\ic_dashboard_black_24dp.xml" qualifiers="" type="drawable"/><file name="ic_esport" path="C:\Users\Asher\AndroidStudioProjects\Sportial\app\src\main\res\drawable\ic_esport.xml" qualifiers="" type="drawable"/><file name="ic_football" path="C:\Users\Asher\AndroidStudioProjects\Sportial\app\src\main\res\drawable\ic_football.xml" qualifiers="" type="drawable"/><file name="ic_golf" path="C:\Users\Asher\AndroidStudioProjects\Sportial\app\src\main\res\drawable\ic_golf.xml" qualifiers="" type="drawable"/><file name="ic_home_black_24dp" path="C:\Users\Asher\AndroidStudioProjects\Sportial\app\src\main\res\drawable\ic_home_black_24dp.xml" qualifiers="" type="drawable"/><file name="ic_launcher_background" path="C:\Users\Asher\AndroidStudioProjects\Sportial\app\src\main\res\drawable\ic_launcher_background.xml" qualifiers="" type="drawable"/><file name="ic_launcher_foreground" path="C:\Users\Asher\AndroidStudioProjects\Sportial\app\src\main\res\drawable\ic_launcher_foreground.xml" qualifiers="" type="drawable"/><file name="ic_notifications_black_24dp" path="C:\Users\Asher\AndroidStudioProjects\Sportial\app\src\main\res\drawable\ic_notifications_black_24dp.xml" qualifiers="" type="drawable"/><file name="ic_run" path="C:\Users\Asher\AndroidStudioProjects\Sportial\app\src\main\res\drawable\ic_run.xml" qualifiers="" type="drawable"/><file name="ic_swimming" path="C:\Users\Asher\AndroidStudioProjects\Sportial\app\src\main\res\drawable\ic_swimming.xml" qualifiers="" type="drawable"/><file name="ic_tennis" path="C:\Users\Asher\AndroidStudioProjects\Sportial\app\src\main\res\drawable\ic_tennis.xml" qualifiers="" type="drawable"/><file name="ic_volleyball" path="C:\Users\Asher\AndroidStudioProjects\Sportial\app\src\main\res\drawable\ic_volleyball.xml" qualifiers="" type="drawable"/><file name="male_gender_icon" path="C:\Users\Asher\AndroidStudioProjects\Sportial\app\src\main\res\drawable\male_gender_icon.xml" qualifiers="" type="drawable"/><file name="message_icon" path="C:\Users\Asher\AndroidStudioProjects\Sportial\app\src\main\res\drawable\message_icon.xml" qualifiers="" type="drawable"/><file name="profile_background" path="C:\Users\Asher\AndroidStudioProjects\Sportial\app\src\main\res\drawable\profile_background.png" qualifiers="" type="drawable"/><file name="profile_button_style" path="C:\Users\Asher\AndroidStudioProjects\Sportial\app\src\main\res\drawable\profile_button_style.xml" qualifiers="" type="drawable"/><file name="profile_button_style2" path="C:\Users\Asher\AndroidStudioProjects\Sportial\app\src\main\res\drawable\profile_button_style2.xml" qualifiers="" type="drawable"/><file name="quote_icon" path="C:\Users\Asher\AndroidStudioProjects\Sportial\app\src\main\res\drawable\quote_icon.xml" qualifiers="" type="drawable"/><file name="running_background" path="C:\Users\Asher\AndroidStudioProjects\Sportial\app\src\main\res\drawable\running_background.png" qualifiers="" type="drawable"/><file name="share_icon" path="C:\Users\Asher\AndroidStudioProjects\Sportial\app\src\main\res\drawable\share_icon.xml" qualifiers="" type="drawable"/><file name="sport_card_view_background" path="C:\Users\Asher\AndroidStudioProjects\Sportial\app\src\main\res\drawable\sport_card_view_background.xml" qualifiers="" type="drawable"/><file name="swim_background" path="C:\Users\Asher\AndroidStudioProjects\Sportial\app\src\main\res\drawable\swim_background.png" qualifiers="" type="drawable"/><file name="tennis_background" path="C:\Users\Asher\AndroidStudioProjects\Sportial\app\src\main\res\drawable\tennis_background.png" qualifiers="" type="drawable"/><file name="verified_symbol_icon" path="C:\Users\Asher\AndroidStudioProjects\Sportial\app\src\main\res\drawable\verified_symbol_icon.xml" qualifiers="" type="drawable"/><file name="volleyball_background" path="C:\Users\Asher\AndroidStudioProjects\Sportial\app\src\main\res\drawable\volleyball_background.png" qualifiers="" type="drawable"/><file name="bungee" path="C:\Users\Asher\AndroidStudioProjects\Sportial\app\src\main\res\font\bungee.xml" qualifiers="" type="font"/><file name="michroma" path="C:\Users\Asher\AndroidStudioProjects\Sportial\app\src\main\res\font\michroma.ttf" qualifiers="" type="font"/><file name="activity_image_upload" path="C:\Users\Asher\AndroidStudioProjects\Sportial\app\src\main\res\layout\activity_image_upload.xml" qualifiers="" type="layout"/><file name="activity_main" path="C:\Users\Asher\AndroidStudioProjects\Sportial\app\src\main\res\layout\activity_main.xml" qualifiers="" type="layout"/><file name="activity_profile_creation" path="C:\Users\Asher\AndroidStudioProjects\Sportial\app\src\main\res\layout\activity_profile_creation.xml" qualifiers="" type="layout"/><file name="activity_profile_screen" path="C:\Users\Asher\AndroidStudioProjects\Sportial\app\src\main\res\layout\activity_profile_screen.xml" qualifiers="" type="layout"/><file name="activity_signup" path="C:\Users\Asher\AndroidStudioProjects\Sportial\app\src\main\res\layout\activity_signup.xml" qualifiers="" type="layout"/><file name="activity_sport_choose" path="C:\Users\Asher\AndroidStudioProjects\Sportial\app\src\main\res\layout\activity_sport_choose.xml" qualifiers="" type="layout"/><file name="fragment_profile_posts" path="C:\Users\Asher\AndroidStudioProjects\Sportial\app\src\main\res\layout\fragment_profile_posts.xml" qualifiers="" type="layout"/><file name="layout" path="C:\Users\Asher\AndroidStudioProjects\Sportial\app\src\main\res\layout\layout.xml" qualifiers="" type="layout"/><file name="post_card_view" path="C:\Users\Asher\AndroidStudioProjects\Sportial\app\src\main\res\layout\post_card_view.xml" qualifiers="" type="layout"/><file name="sport_card_view" path="C:\Users\Asher\AndroidStudioProjects\Sportial\app\src\main\res\layout\sport_card_view.xml" qualifiers="" type="layout"/><file name="ic_launcher" path="C:\Users\Asher\AndroidStudioProjects\Sportial\app\src\main\res\mipmap-anydpi\ic_launcher.xml" qualifiers="anydpi-v4" type="mipmap"/><file name="ic_launcher_round" path="C:\Users\Asher\AndroidStudioProjects\Sportial\app\src\main\res\mipmap-anydpi\ic_launcher_round.xml" qualifiers="anydpi-v4" type="mipmap"/><file name="ic_launcher" path="C:\Users\Asher\AndroidStudioProjects\Sportial\app\src\main\res\mipmap-hdpi\ic_launcher.webp" qualifiers="hdpi-v4" type="mipmap"/><file name="ic_launcher_round" path="C:\Users\Asher\AndroidStudioProjects\Sportial\app\src\main\res\mipmap-hdpi\ic_launcher_round.webp" qualifiers="hdpi-v4" type="mipmap"/><file name="ic_launcher" path="C:\Users\Asher\AndroidStudioProjects\Sportial\app\src\main\res\mipmap-mdpi\ic_launcher.webp" qualifiers="mdpi-v4" type="mipmap"/><file name="ic_launcher_round" path="C:\Users\Asher\AndroidStudioProjects\Sportial\app\src\main\res\mipmap-mdpi\ic_launcher_round.webp" qualifiers="mdpi-v4" type="mipmap"/><file name="ic_launcher" path="C:\Users\Asher\AndroidStudioProjects\Sportial\app\src\main\res\mipmap-xhdpi\ic_launcher.webp" qualifiers="xhdpi-v4" type="mipmap"/><file name="ic_launcher_round" path="C:\Users\Asher\AndroidStudioProjects\Sportial\app\src\main\res\mipmap-xhdpi\ic_launcher_round.webp" qualifiers="xhdpi-v4" type="mipmap"/><file name="ic_launcher" path="C:\Users\Asher\AndroidStudioProjects\Sportial\app\src\main\res\mipmap-xxhdpi\ic_launcher.webp" qualifiers="xxhdpi-v4" type="mipmap"/><file name="ic_launcher_round" path="C:\Users\Asher\AndroidStudioProjects\Sportial\app\src\main\res\mipmap-xxhdpi\ic_launcher_round.webp" qualifiers="xxhdpi-v4" type="mipmap"/><file name="ic_launcher" path="C:\Users\Asher\AndroidStudioProjects\Sportial\app\src\main\res\mipmap-xxxhdpi\ic_launcher.webp" qualifiers="xxxhdpi-v4" type="mipmap"/><file name="ic_launcher_round" path="C:\Users\Asher\AndroidStudioProjects\Sportial\app\src\main\res\mipmap-xxxhdpi\ic_launcher_round.webp" qualifiers="xxxhdpi-v4" type="mipmap"/><file path="C:\Users\Asher\AndroidStudioProjects\Sportial\app\src\main\res\values\colors.xml" qualifiers=""><color name="black">#FF000000</color><color name="white">#FFFFFFFF</color><color name="lightGreen">#86DCAA</color><color name="lime">#00EC63</color><color name="greyLime">#2E704A</color><color name="lightGrey">#80959595</color><color name="lightGold">#F3E59D</color><color name="blackTint">#D8FFFFFF</color></file><file path="C:\Users\Asher\AndroidStudioProjects\Sportial\app\src\main\res\values\dimens.xml" qualifiers=""><dimen name="activity_horizontal_margin">16dp</dimen><dimen name="activity_vertical_margin">16dp</dimen></file><file path="C:\Users\Asher\AndroidStudioProjects\Sportial\app\src\main\res\values\font_certs.xml" qualifiers=""><array name="com_google_android_gms_fonts_certs">
+        <item>@array/com_google_android_gms_fonts_certs_dev</item>
+        <item>@array/com_google_android_gms_fonts_certs_prod</item>
+    </array><string-array name="com_google_android_gms_fonts_certs_dev">
+        <item>
+            MIIEqDCCA5CgAwIBAgIJANWFuGx90071MA0GCSqGSIb3DQEBBAUAMIGUMQswCQYDVQQGEwJVUzETMBEGA1UECBMKQ2FsaWZvcm5pYTEWMBQGA1UEBxMNTW91bnRhaW4gVmlldzEQMA4GA1UEChMHQW5kcm9pZDEQMA4GA1UECxMHQW5kcm9pZDEQMA4GA1UEAxMHQW5kcm9pZDEiMCAGCSqGSIb3DQEJARYTYW5kcm9pZEBhbmRyb2lkLmNvbTAeFw0wODA0MTUyMzM2NTZaFw0zNTA5MDEyMzM2NTZaMIGUMQswCQYDVQQGEwJVUzETMBEGA1UECBMKQ2FsaWZvcm5pYTEWMBQGA1UEBxMNTW91bnRhaW4gVmlldzEQMA4GA1UEChMHQW5kcm9pZDEQMA4GA1UECxMHQW5kcm9pZDEQMA4GA1UEAxMHQW5kcm9pZDEiMCAGCSqGSIb3DQEJARYTYW5kcm9pZEBhbmRyb2lkLmNvbTCCASAwDQYJKoZIhvcNAQEBBQADggENADCCAQgCggEBANbOLggKv+IxTdGNs8/TGFy0PTP6DHThvbbR24kT9ixcOd9W+EaBPWW+wPPKQmsHxajtWjmQwWfna8mZuSeJS48LIgAZlKkpFeVyxW0qMBujb8X8ETrWy550NaFtI6t9+u7hZeTfHwqNvacKhp1RbE6dBRGWynwMVX8XW8N1+UjFaq6GCJukT4qmpN2afb8sCjUigq0GuMwYXrFVee74bQgLHWGJwPmvmLHC69EH6kWr22ijx4OKXlSIx2xT1AsSHee70w5iDBiK4aph27yH3TxkXy9V89TDdexAcKk/cVHYNnDBapcavl7y0RiQ4biu8ymM8Ga/nmzhRKya6G0cGw8CAQOjgfwwgfkwHQYDVR0OBBYEFI0cxb6VTEM8YYY6FbBMvAPyT+CyMIHJBgNVHSMEgcEwgb6AFI0cxb6VTEM8YYY6FbBMvAPyT+CyoYGapIGXMIGUMQswCQYDVQQGEwJVUzETMBEGA1UECBMKQ2FsaWZvcm5pYTEWMBQGA1UEBxMNTW91bnRhaW4gVmlldzEQMA4GA1UEChMHQW5kcm9pZDEQMA4GA1UECxMHQW5kcm9pZDEQMA4GA1UEAxMHQW5kcm9pZDEiMCAGCSqGSIb3DQEJARYTYW5kcm9pZEBhbmRyb2lkLmNvbYIJANWFuGx90071MAwGA1UdEwQFMAMBAf8wDQYJKoZIhvcNAQEEBQADggEBABnTDPEF+3iSP0wNfdIjIz1AlnrPzgAIHVvXxunW7SBrDhEglQZBbKJEk5kT0mtKoOD1JMrSu1xuTKEBahWRbqHsXclaXjoBADb0kkjVEJu/Lh5hgYZnOjvlba8Ld7HCKePCVePoTJBdI4fvugnL8TsgK05aIskyY0hKI9L8KfqfGTl1lzOv2KoWD0KWwtAWPoGChZxmQ+nBli+gwYMzM1vAkP+aayLe0a1EQimlOalO762r0GXO0ks+UeXde2Z4e+8S/pf7pITEI/tP+MxJTALw9QUWEv9lKTk+jkbqxbsh8nfBUapfKqYn0eidpwq2AzVp3juYl7//fKnaPhJD9gs=
+        </item>
+    </string-array><string-array name="com_google_android_gms_fonts_certs_prod">
+        <item>
+            MIIEQzCCAyugAwIBAgIJAMLgh0ZkSjCNMA0GCSqGSIb3DQEBBAUAMHQxCzAJBgNVBAYTAlVTMRMwEQYDVQQIEwpDYWxpZm9ybmlhMRYwFAYDVQQHEw1Nb3VudGFpbiBWaWV3MRQwEgYDVQQKEwtHb29nbGUgSW5jLjEQMA4GA1UECxMHQW5kcm9pZDEQMA4GA1UEAxMHQW5kcm9pZDAeFw0wODA4MjEyMzEzMzRaFw0zNjAxMDcyMzEzMzRaMHQxCzAJBgNVBAYTAlVTMRMwEQYDVQQIEwpDYWxpZm9ybmlhMRYwFAYDVQQHEw1Nb3VudGFpbiBWaWV3MRQwEgYDVQQKEwtHb29nbGUgSW5jLjEQMA4GA1UECxMHQW5kcm9pZDEQMA4GA1UEAxMHQW5kcm9pZDCCASAwDQYJKoZIhvcNAQEBBQADggENADCCAQgCggEBAKtWLgDYO6IIrgqWbxJOKdoR8qtW0I9Y4sypEwPpt1TTcvZApxsdyxMJZ2JORland2qSGT2y5b+3JKkedxiLDmpHpDsz2WCbdxgxRczfey5YZnTJ4VZbH0xqWVW/8lGmPav5xVwnIiJS6HXk+BVKZF+JcWjAsb/GEuq/eFdpuzSqeYTcfi6idkyugwfYwXFU1+5fZKUaRKYCwkkFQVfcAs1fXA5V+++FGfvjJ/CxURaSxaBvGdGDhfXE28LWuT9ozCl5xw4Yq5OGazvV24mZVSoOO0yZ31j7kYvtwYK6NeADwbSxDdJEqO4k//0zOHKrUiGYXtqw/A0LFFtqoZKFjnkCAQOjgdkwgdYwHQYDVR0OBBYEFMd9jMIhF1Ylmn/Tgt9r45jk14alMIGmBgNVHSMEgZ4wgZuAFMd9jMIhF1Ylmn/Tgt9r45jk14aloXikdjB0MQswCQYDVQQGEwJVUzETMBEGA1UECBMKQ2FsaWZvcm5pYTEWMBQGA1UEBxMNTW91bnRhaW4gVmlldzEUMBIGA1UEChMLR29vZ2xlIEluYy4xEDAOBgNVBAsTB0FuZHJvaWQxEDAOBgNVBAMTB0FuZHJvaWSCCQDC4IdGZEowjTAMBgNVHRMEBTADAQH/MA0GCSqGSIb3DQEBBAUAA4IBAQBt0lLO74UwLDYKqs6Tm8/yzKkEu116FmH4rkaymUIE0P9KaMftGlMexFlaYjzmB2OxZyl6euNXEsQH8gjwyxCUKRJNexBiGcCEyj6z+a1fuHHvkiaai+KL8W1EyNmgjmyy8AW7P+LLlkR+ho5zEHatRbM/YAnqGcFh5iZBqpknHf1SKMXFh4dd239FJ1jWYfbMDMy3NS5CTMQ2XFI1MvcyUTdZPErjQfTbQe3aDQsQcafEQPD+nqActifKZ0Np0IS9L9kR/wbNvyz6ENwPiTrjV2KRkEjH78ZMcUQXg0L3BYHJ3lc69Vs5Ddf9uUGGMYldX3WfMBEmh/9iFBDAaTCK
+        </item>
+    </string-array></file><file path="C:\Users\Asher\AndroidStudioProjects\Sportial\app\src\main\res\values\preloaded_fonts.xml" qualifiers=""><array name="preloaded_fonts" translatable="false">
+        <item>@font/bungee</item>
+    </array></file><file path="C:\Users\Asher\AndroidStudioProjects\Sportial\app\src\main\res\values\strings.xml" qualifiers=""><string name="app_name">Sportial</string><string-array name="dropbox_sportOptions">
+        <item>Please select a sport field you are interested in</item>
+        <item>Football</item>
+        <item>Basketball</item>
+        <item>Soccer</item>
+        <item>Tennis</item>
+        <item>Golf</item>
+        <item>Swimming</item>
+        <item>Running</item>
+        <item>Cycling</item>
+        <item>Climbing</item>
+        <item>Yoga</item>
+        <item>Pilates</item>
+        <item>Zumba</item>
+        <item>CrossFit</item>
+        <item>Martial arts</item>
+        <item>Dance</item>
+        <item>Gymnastics</item>
+        <item>Track and field</item>
+        <item>Volleyball</item>
+        <item>Lacrosse</item>
+        <item>Rowing</item>
+        <item>Sailing</item>
+        <item>Surfing</item>
+        <item>Skateboarding</item>
+        <item>Snowboarding</item>
+        <item>Skiing</item>
+        <item>Bobsledding</item>
+        <item>Luge</item>
+        <item>Skeleton</item>
+        <item>Curling</item>
+        <item>Biathlon</item>
+        <item>Triathlon</item>
+        <item>Duathlon</item>
+        <item>Aquathlon</item>
+        <item>Adventure racing</item>
+        <item>Obstacle course racing</item>
+    </string-array><string-array name="dropbox_genderOptions">
+        <item>Please select your gender</item>
+        <item>Male</item>
+        <item>Female</item>
+    </string-array><string-array name="dropbox_dayOptions">
+        <item>Day</item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
+        <item>8</item>
+        <item>9</item>
+        <item>10</item>
+        <item>11</item>
+        <item>12</item>
+        <item>13</item>
+        <item>14</item>
+        <item>15</item>
+        <item>16</item>
+        <item>17</item>
+        <item>18</item>
+        <item>19</item>
+        <item>20</item>
+        <item>21</item>
+        <item>22</item>
+        <item>23</item>
+        <item>24</item>
+        <item>25</item>
+        <item>26</item>
+        <item>27</item>
+        <item>28</item>
+        <item>29</item>
+        <item>30</item>
+        <item>31</item>
+    </string-array><string-array name="dropbox_monthOptions">
+        <item>Month</item>
+        <item>January</item>
+        <item>February</item>
+        <item>March</item>
+        <item>April</item>
+        <item>May</item>
+        <item>June</item>
+        <item>July</item>
+        <item>August</item>
+        <item>September</item>
+        <item>October</item>
+        <item>November</item>
+        <item>December</item>
+    </string-array><string-array name="dropbox_yearOptions">
+        <item>Year</item>
+        <item>1900</item>
+        <item>1901</item>
+        <item>1902</item>
+        <item>1903</item>
+        <item>1904</item>
+        <item>1905</item>
+        <item>1906</item>
+        <item>1907</item>
+        <item>1908</item>
+        <item>1909</item>
+        <item>1910</item>
+        <item>1911</item>
+        <item>1912</item>
+        <item>1913</item>
+        <item>1914</item>
+        <item>1915</item>
+        <item>1916</item>
+        <item>1917</item>
+        <item>1918</item>
+        <item>1919</item>
+        <item>1920</item>
+        <item>1921</item>
+        <item>1922</item>
+        <item>1923</item>
+        <item>1924</item>
+        <item>1925</item>
+        <item>1926</item>
+        <item>1927</item>
+        <item>1928</item>
+        <item>1929</item>
+        <item>1930</item>
+        <item>1931</item>
+        <item>1932</item>
+        <item>1933</item>
+        <item>1934</item>
+        <item>1935</item>
+        <item>1936</item>
+        <item>1937</item>
+        <item>1938</item>
+        <item>1939</item>
+        <item>1940</item>
+        <item>1941</item>
+        <item>1942</item>
+        <item>1943</item>
+        <item>1944</item>
+        <item>1945</item>
+        <item>1946</item>
+        <item>1947</item>
+        <item>1948</item>
+        <item>1949</item>
+        <item>1950</item>
+        <item>1951</item>
+        <item>1952</item>
+        <item>1953</item>
+        <item>1954</item>
+        <item>1955</item>
+        <item>1956</item>
+        <item>1957</item>
+        <item>1958</item>
+        <item>1959</item>
+        <item>1960</item>
+        <item>1961</item>
+        <item>1962</item>
+        <item>1963</item>
+        <item>1964</item>
+        <item>1965</item>
+        <item>1966</item>
+        <item>1967</item>
+        <item>1968</item>
+        <item>1969</item>
+        <item>1970</item>
+        <item>1971</item>
+        <item>1972</item>
+        <item>1973</item>
+        <item>1974</item>
+        <item>1975</item>
+        <item>1976</item>
+        <item>1977</item>
+        <item>1978</item>
+        <item>1979</item>
+        <item>1980</item>
+        <item>1981</item>
+        <item>1982</item>
+        <item>1983</item>
+        <item>1984</item>
+        <item>1985</item>
+        <item>1986</item>
+        <item>1987</item>
+        <item>1988</item>
+        <item>1989</item>
+        <item>1990</item>
+        <item>1991</item>
+        <item>1992</item>
+        <item>1993</item>
+        <item>1994</item>
+        <item>1995</item>
+        <item>1996</item>
+        <item>1997</item>
+        <item>1998</item>
+        <item>1999</item>
+        <item>2000</item>
+        <item>2001</item>
+        <item>2002</item>
+        <item>2003</item>
+        <item>2004</item>
+        <item>2005</item>
+        <item>2006</item>
+        <item>2007</item>
+        <item>2008</item>
+        <item>2009</item>
+        <item>2010</item>
+        <item>2011</item>
+        <item>2012</item>
+        <item>2013</item>
+        <item>2014</item>
+        <item>2015</item>
+        <item>2016</item>
+        <item>2017</item>
+        <item>2018</item>
+        <item>2019</item>
+        <item>2020</item>
+        <item>2021</item>
+        <item>2022</item>
+        <item>2023</item>
+        <item>2024</item>
+    </string-array><string-array name="dropbox_countryOptions">
+        <item>Month</item>
+        <item>January</item>
+        <item>February</item>
+        <item>March</item>
+        <item>April</item>
+        <item>May</item>
+        <item>June</item>
+        <item>July</item>
+        <item>August</item>
+        <item>September</item>
+        <item>October</item>
+        <item>November</item>
+        <item>December</item>
+    </string-array><string-array name="dropbox_cityOptions">
+        <item>Month</item>
+        <item>January</item>
+        <item>February</item>
+        <item>March</item>
+        <item>April</item>
+        <item>May</item>
+        <item>June</item>
+        <item>July</item>
+        <item>August</item>
+        <item>September</item>
+        <item>October</item>
+        <item>November</item>
+        <item>December</item>
+    </string-array><string name="hello_blank_fragment">Hello blank fragment</string></file><file path="C:\Users\Asher\AndroidStudioProjects\Sportial\app\src\main\res\values\themes.xml" qualifiers=""><style name="Base.Theme.Sportial" parent="Theme.Material3.DayNight.NoActionBar">
+        
+        
+    </style><style name="Theme.Sportial" parent="Base.Theme.Sportial"/></file><file path="C:\Users\Asher\AndroidStudioProjects\Sportial\app\src\main\res\values-night\themes.xml" qualifiers="night-v8"><style name="Base.Theme.Sportial" parent="Theme.Material3.DayNight.NoActionBar">
+        
+        
+    </style></file><file name="backup_rules" path="C:\Users\Asher\AndroidStudioProjects\Sportial\app\src\main\res\xml\backup_rules.xml" qualifiers="" type="xml"/><file name="data_extraction_rules" path="C:\Users\Asher\AndroidStudioProjects\Sportial\app\src\main\res\xml\data_extraction_rules.xml" qualifiers="" type="xml"/></source></dataSet><dataSet aapt-namespace="http://schemas.android.com/apk/res-auto" config="debug$Generated" generated="true" ignore_pattern="!.svn:!.git:!.ds_store:!*.scc:.*:&lt;dir>_*:!CVS:!thumbs.db:!picasa.ini:!*~"><source path="C:\Users\Asher\AndroidStudioProjects\Sportial\app\src\debug\res"/></dataSet><dataSet aapt-namespace="http://schemas.android.com/apk/res-auto" config="debug" generated-set="debug$Generated" ignore_pattern="!.svn:!.git:!.ds_store:!*.scc:.*:&lt;dir>_*:!CVS:!thumbs.db:!picasa.ini:!*~"><source path="C:\Users\Asher\AndroidStudioProjects\Sportial\app\src\debug\res"/></dataSet><dataSet aapt-namespace="http://schemas.android.com/apk/res-auto" config="generated$Generated" generated="true" ignore_pattern="!.svn:!.git:!.ds_store:!*.scc:.*:&lt;dir>_*:!CVS:!thumbs.db:!picasa.ini:!*~"><source path="C:\Users\Asher\AndroidStudioProjects\Sportial\app\build\generated\res\resValues\debug"/><source path="C:\Users\Asher\AndroidStudioProjects\Sportial\app\build\generated\res\processDebugGoogleServices"/></dataSet><dataSet aapt-namespace="http://schemas.android.com/apk/res-auto" config="generated" generated-set="generated$Generated" ignore_pattern="!.svn:!.git:!.ds_store:!*.scc:.*:&lt;dir>_*:!CVS:!thumbs.db:!picasa.ini:!*~"><source path="C:\Users\Asher\AndroidStudioProjects\Sportial\app\build\generated\res\resValues\debug"/><source path="C:\Users\Asher\AndroidStudioProjects\Sportial\app\build\generated\res\processDebugGoogleServices"><file path="C:\Users\Asher\AndroidStudioProjects\Sportial\app\build\generated\res\processDebugGoogleServices\values\values.xml" qualifiers=""><string name="gcm_defaultSenderId" translatable="false">899485961449</string><string name="google_api_key" translatable="false">AIzaSyAfYlLvOBCJn8IbLjtdfxzDkmXSxZHy1vw</string><string name="google_app_id" translatable="false">1:899485961449:android:55013d15ac8dc179683478</string><string name="google_crash_reporting_api_key" translatable="false">AIzaSyAfYlLvOBCJn8IbLjtdfxzDkmXSxZHy1vw</string><string name="google_storage_bucket" translatable="false">sportial-final.appspot.com</string><string name="project_id" translatable="false">sportial-final</string></file></source></dataSet><dataSet aapt-namespace="http://schemas.android.com/apk/res-auto" config="res-processDebugGoogleServices$Generated" generated="true" ignore_pattern="!.svn:!.git:!.ds_store:!*.scc:.*:&lt;dir>_*:!CVS:!thumbs.db:!picasa.ini:!*~"/><dataSet aapt-namespace="http://schemas.android.com/apk/res-auto" config="res-processDebugGoogleServices" generated-set="res-processDebugGoogleServices$Generated" ignore_pattern="!.svn:!.git:!.ds_store:!*.scc:.*:&lt;dir>_*:!CVS:!thumbs.db:!picasa.ini:!*~"/><mergedItems/></merger>
